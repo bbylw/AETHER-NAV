@@ -57,7 +57,7 @@ vercel
 
 ## 🛠️ 核心技术与系统特色
 
-- **最新一代 Font Awesome 6.7.2 支持**：引入最新高动态加载 CDN 节点，原生支持包括 ChatGPT、Claude、Google、GitHub、Suno 等在内的数万款最新 AI/科技品牌与实用工具图标。
+- **最新一代 Font Awesome 7.3.0 支持**：引入最新高动态加载 CDN 节点，原生支持包括 ChatGPT、Claude、Google、GitHub、Suno 等在内的数万款最新 AI/科技品牌与实用工具图标。
 - **高帧率物理流体背景 (Mathematical Flow Field)**：基于 HTML5 Canvas 重构。粒子在暗黑色彩网格（Grid Mesh）中如沙流淌，支持实时捕获鼠标坐标并产生平滑、解压的物理阻尼斥力漩涡。
 - **无缝静态模糊检索**：保留强大的后台字符串搜索树。支持键入工具英文缩写、官方域名等隐藏关键字过滤，搜索结果实时高亮匹配部分（`.search-match`），未匹配到的分组标题会自动优雅隐藏。
 - **单文件无依赖架构**：所有的 CSS（Tailwind 配色系统）、高性能交互 JavaScript、Canvas 粒子引擎全部精缩在单个 `.html` 文件中，保证零卡顿、120Hz 高刷新、100% 离线可用。
